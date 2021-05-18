@@ -1,0 +1,29 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "Project made to implement basic functionality of search on MongoDB soly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pebueno/search-engine.git"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDB",
+    "EJS",
+    "NoSQL"
+  ],
+  "author": "Pedro Ivo Bueno Sartório",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pebueno/search-engine/issues"
+  },
+  "homepage": "https://github.com/pebueno/search-engine#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "mongodb": "^3.6.6"
+  }
+}
