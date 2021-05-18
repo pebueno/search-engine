@@ -4,6 +4,7 @@ Search engine built with Node.js and EJS
 
 
 In version 1.0, EJS App generated with default template of express installed globaly:
+
 npm install -g express-generator
 express -e app
 
